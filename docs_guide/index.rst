@@ -37,4 +37,4 @@ The intent of this guide is to help Qiskit maintainers improve their documentati
 Next steps
 ==========
 
-:doc:`intro/how_to_use_this_guide`
+:ref:`how_to_use_this_guide`
